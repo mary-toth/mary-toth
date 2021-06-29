@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mary-toth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mary Toth.
+<!-- - 👀 I’m interested in ... -->
+- 🌱 I’m currently learning Javascript
+- 👩🏼‍💻 I’m looking for my first web development job!
+- 📫 You can reach me at marytoth96@gmail.com
 
 <!---
 mary-toth/mary-toth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
