@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mary Toth.
+Hi, I’m Mary Toth 👋 
 <!-- - 👀 I’m interested in ... -->
 - 🌱 I’m currently learning Javascript
 - 👩🏼‍💻 I’m looking for my first web development job!
