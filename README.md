@@ -1,6 +1,6 @@
 Hi, I’m Mary Toth 👋 
 <!-- - 👀 I’m interested in ... -->
-- 🌱 I’m currently learning full-stack web development
+- 🌱 I’m currently learning expanding my JavaScript skills
 - 👩🏼‍💻 I’m looking for my first web development job!
 - 📫 You can reach me at marytoth96@gmail.com
 
